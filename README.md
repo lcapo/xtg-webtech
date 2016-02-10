@@ -1,3 +1,4 @@
 # xtg-webtech
 
-This is the Frontend rendered by Jekyll and getting content from public and private git repositories
+XTG WebTech Frontend rendered by Jekyll.
+It gets content from public and private git repos.
