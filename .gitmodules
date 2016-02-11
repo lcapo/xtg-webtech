@@ -1,3 +1,6 @@
 [submodule "_posts"]
 	path = _posts
 	url = https://github.com/XML-Travelgate/xtg-content-posts-pub.git
+[submodule "articles-pub"]
+	path = articles-pub
+	url = https://github.com/XML-Travelgate/xtg-content-articles-pub.git
