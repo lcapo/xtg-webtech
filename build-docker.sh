@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t xtg/jekyll .
+docker build -t xtg/jekyll-webtech .
