@@ -16,9 +16,18 @@ Estructura de directorios y repos:
 - *_articles_pr*: https://github.com/XML-Travelgate/xtg-content-articles-pr   -> (Privado) Articulos que solo pueden leer los collaborators del proyecto https://github.com/XML-Travelgate/xtg-content-articles-pr
 - *_posts*: https://github.com/XML-Travelgate/xtg-content-posts-pub -> (Publico) Blog
 
+Canal de slack:
+- https://xtgtech.slack.com/messages/prj-documentation/
+
+
 Temas pendientes:
-- Utilizar formateador Markdown que genere codigo equivalente al utilizado en git-hub pages: (p.ej. que acepte '''ruby para syntax de codigo ruby)
-- Utilizar modulo de seguridad https://github.com/benbalter/jekyll-auth para gestionar repo privado  
+- Utilizar formateador Markdown que renderice igual que *git-hub* pages: (p.ej. que acepte '''ruby para syntax de codigo ruby)
+- Utilizar modulo de seguridad https://github.com/benbalter/jekyll-auth para gestionar repo privado
+- Finalizar CI/CD con Jenkins / Docker / PrivateRepo  
+- Utilizar algún template opensource para conseguir una organización tipo https://labs.spotify.com/:
+-- Toidos los posts con Disqus
+--
+
 
 
 
