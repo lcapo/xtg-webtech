@@ -21,12 +21,14 @@ Canal de slack:
 
 
 Temas pendientes:
-- Utilizar formateador Markdown que renderice igual que *git-hub* pages: (p.ej. que acepte '''ruby para syntax de codigo ruby)
-- Utilizar modulo de seguridad https://github.com/benbalter/jekyll-auth para gestionar repo privado
-- Finalizar CI/CD con Jenkins / Docker / PrivateRepo  
-- Utilizar algún template opensource para conseguir una organización tipo https://labs.spotify.com/:
--- Toidos los posts con Disqus
---
+* Utilizar formateador Markdown que renderice igual que *git-hub* pages: (p.ej. que acepte '''ruby para syntax de codigo ruby)
+* Utilizar modulo de seguridad https://github.com/benbalter/jekyll-auth para gestionar repo privado
+* Finalizar CI/CD con Jenkins / Docker / PrivateRepo  
+* Utilizar algún template opensource para organizar tipo https://labs.spotify.com/:
+    * Todos los posts con Disqus
+    * Stream de Twitter
+    * Stream de Slack
+    * Los posts/tags con tags
 
 
 
