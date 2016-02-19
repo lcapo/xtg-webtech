@@ -22,16 +22,14 @@ Estructura de directorios y repos:
 * Finalizar CI/CD con Jenkins-Docker-PrivateRepo  
 * Organizar estructura de repos como https://github.com/Azure/azure-content (Por directorios dinámicos)
 * Utilizar template opensource para organizar información tipo https://labs.spotify.com/:
-    * Todos los posts con Disqus
-    * Stream de Twitter
-    * Stream de Slack
-    * Pagina inicio con posts en el centro
-    * Menú con los articulos publicos organizados como (https://azure.microsoft.com/en-us/documentation/articles/active-directory-b2c-setup-msa-app/)
-    * Area privada (login required) con los articulos privados organizados como los privados
-    * Migrar documentación API (ahora con Readthedocs) a articulos publicos
-    * Migrar wiki Redmine a articulos privados
+* Organizar estructura de home como https://azure.microsoft.com/en-us/documentation/articles/active-directory-b2c-setup-msa-app/   
+    * Pagina inicio con posts en el centro, Stream de Twiter y Disqus
+    * Menú con link a articulos publicos organizados como (https://azure.microsoft.com/en-us/documentation/articles/active-directory-b2c-setup-msa-app/)
+    * Link a area privada (login required) con los articulos privados organizados como los públicos
+* Migrar documentación API (ahora con Readthedocs) a articulos publicos
+* Migrar wiki Redmine a articulos privados
 
-## Canal de slack:
+## Slack Channel:
 * https://xtgtech.slack.com/messages/prj-documentation/
 
 
