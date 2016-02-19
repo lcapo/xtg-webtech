@@ -2,12 +2,10 @@
 
 XTG WebTech Frontend rendered by Jekyll.
 
-El objetivo es poder documentar *posts* y *articles* a través de github como hace Azure:
+El objetivo es poder documentar *posts* y *articles* a través de github tal como hace Azure:
 - https://azure.microsoft.com/en-us/documentation/articles/active-directory-b2c-setup-msa-app/
 
-Hay git repos privados y publicos esté toda la documentación:
-
-Separamos contenido en diferentes repos:
+Se separan los repos (github) de documentación y del site. También hay repos públicos y repos privados:
 - http://jry.io/posts/make-your-jekyll-blog-awesome-with-git-submodules/
 - Utilizamos git submodules para incluir este contenido
 
@@ -19,19 +17,17 @@ Estructura de directorios y repos:
 Canal de slack:
 - https://xtgtech.slack.com/messages/prj-documentation/
 
-
 Temas pendientes:
-* Utilizar formateador Markdown que renderice igual que *git-hub* pages: (p.ej. que acepte '''ruby para syntax de codigo ruby)
-'''ruby
-# this is a ruby comment
-'''
+* Utilizar formateador Markdown que renderice igual que *git-hub* pages: (p.ej. que acepte 3 apostrofes para renderizar codigo, '''ruby para syntax de codigo ruby)
 * Utilizar modulo de seguridad https://github.com/benbalter/jekyll-auth para gestionar repo privado
-* Finalizar CI/CD con Jenkins / Docker / PrivateRepo  
+* Finalizar CI/CD con Jenkins-Docker-PrivateRepo  
+* Organizar estructura de repos como https://github.com/Azure/azure-content (Por directorios dinámicos)
 * Utilizar algún template opensource para organizar tipo https://labs.spotify.com/:
     * Todos los posts con Disqus
     * Stream de Twitter
     * Stream de Slack
     * Los posts/tags con tags
+
 
 
 
