@@ -22,6 +22,9 @@ Canal de slack:
 
 Temas pendientes:
 * Utilizar formateador Markdown que renderice igual que *git-hub* pages: (p.ej. que acepte '''ruby para syntax de codigo ruby)
+'''ruby
+# this is a ruby comment
+'''
 * Utilizar modulo de seguridad https://github.com/benbalter/jekyll-auth para gestionar repo privado
 * Finalizar CI/CD con Jenkins / Docker / PrivateRepo  
 * Utilizar algún template opensource para organizar tipo https://labs.spotify.com/:
